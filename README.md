@@ -1,4 +1,13 @@
-## Hi there 👋
+<img width="2550" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/9552f94c-76f0-4225-8b10-64929199b3b1" />
+
+<p align="center">
+  <h1>
+    <font face="Courier New"> go to my
+      <a href="https://mileskeffer.cc" target="_blank">website</a>!!!
+    </font>
+  </h1>
+</p>
+
 
 <!--
 **mileskeffer/mileskeffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
